@@ -1,0 +1,1 @@
+{ "name": "nlt-editor", "private": true, "scripts": { "start": "bun server.ts" } }
